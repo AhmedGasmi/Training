@@ -1,0 +1,4 @@
+INFO : __main__ : log_con : <module> : This is an info message.
+WARNING : __main__ : log_con : <module> : This is a warning message.
+ERROR : __main__ : log_con : <module> : This is an error message.
+CRITICAL : __main__ : log_con : <module> : This is a critical message.
